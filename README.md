@@ -1,6 +1,6 @@
 # Hi, I'm Aidan Shirey! <a href="https://www.linkedin.com/in/aidanshirey/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30" /> </a>
 
-# About Me 🧑🏼
+About Me 🧑🏼
 
 I'm a recently graduated Computer Science major based in Los Angeles, California. My beginning as a Software Engineer began with a strong passion for everything tech-related at a young age. The early years of the internet intrigued me because the unknown potential of it was the most interesting aspect. Now, I write software in Java, JavaScript, C++, and Python. Feel free to DM me on LinkedIn or email me at aidan.shirey@gmail.com!
 
